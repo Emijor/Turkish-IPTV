@@ -1,2 +1,0 @@
-#EXTINF:-1 tvg-id="AVT.tr",AVT
-https://raw.githubusercontent.com/Emijor/test/refs/heads/main/111.m3u8
