@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" tvg-id="atv.com.tr" group-title="Turkey",ATV
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=lsNVl19WyQN0mnrvAJGUPA&e=1735199596
+#EXTINF:-1 tvg-name="ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/03/Logo-ShowTV.svg/1200px-Logo-ShowTV.svg.png" tvg-id="https://www.showtv.com.tr" group-title="Turkey",ShowTV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-name="aHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-id="ahaber.com.tr" group-title="Turkey",aHaber
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=af-8NWGl-RpEznOyDwRZ8A&e=1735208554
