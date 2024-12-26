@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://play-lh.googleusercontent.com/53YgfmbICHYTyb2IjQn3krwvRqrb5GjC4fJh6OsvwYlW_pLP0wXQNrib_pJnbuURQw=w240-h480-rw" tvg-id="atv.com.tr" group-title="Turkey",ATV
-https://yayin2.canlitv.fun/live/atv.stream/chunklist_w812714383.m3u8?hash=52e8b6c963e71bb5aef05074b4b5681c
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=kZLLokO9ycJur4nQG4jwKw&e=1735274485&SessionID=tec23d1myun1h25csb4j5coh&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
 #EXTINF:-1 tvg-name="Show TV" tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q=w240-h480-rw" tvg-id="https://www.showtv.com.tr" group-title="Turkey",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" tvg-id="trt1.com.tr" group-title="Turkey",TRT 1
