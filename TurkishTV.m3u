@@ -13,3 +13,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-name="TRT HABER" tvg-logo="https://yt3.googleusercontent.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ=s900-c-k-c0x00ffffff-no-rj" tvg-id="trthaber.com" group-title="Turkey",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnwqLdHqFXbkm6QwloGNJ1EX5N3Z8klIpdSF59MRbbLxU=s900-c-k-c0x00ffffff-no-rj" tvg-id="tv8.com.tr" group-title="Turkey",TV8
+https://yayin2.canlitv.fun/live/tv-8.stream/chunklist_w1900310726.m3u8?hash=52e8b6c963e71bb5aef05074b4b5681c
+#EXTINF:-1 tvg-name="AHABER" tvg-logo="https://yt3.googleusercontent.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE=s900-c-k-c0x00ffffff-no-rj" tvg-id="ahaber.com.tr" group-title="Turkey",AHABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MDQ--IJeTC9kW3HKDS98wA&e=1735264857
