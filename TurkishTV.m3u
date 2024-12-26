@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://play-lh.googleusercontent.com/53YgfmbICHYTyb2IjQn3krwvRqrb5GjC4fJh6OsvwYlW_pLP0wXQNrib_pJnbuURQw=w240-h480-rw" tvg-id="atv.com.tr" group-title="Turkey",ATV
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=lsNVl19WyQN0mnrvAJGUPA&e=1735199596
+https://yayin2.canlitv.fun/live/atv.stream/chunklist_w812714383.m3u8?hash=52e8b6c963e71bb5aef05074b4b5681c
 #EXTINF:-1 tvg-name="Show TV" tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q=w240-h480-rw" tvg-id="https://www.showtv.com.tr" group-title="Turkey",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-#EXTINF:-1 tvg-name="AHABER" tvg-logo="https://yt3.googleusercontent.com/J-MO0c7Y8sVJMemkFBfwtZVWWxMYwFw7fugyCj9eyHUNFMEpPSGiSNgG8nehOw0vuvBD0qgTEg=s900-c-k-c0x00ffffff-no-rj" tvg-id="ahaber.com.tr" group-title="Turkey",AHABER
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=af-8NWGl-RpEznOyDwRZ8A&e=1735208554
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://yt3.googleusercontent.com/BYKdhf9rXyAicCvBapQiD2HFIpKRUmrB5ZsnFVVJmdloEgiyy2Os37r3-4lESixGBXn5YkRN=s900-c-k-c0x00ffffff-no-rj" tvg-id="trt1.com.tr" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="Star TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCbHIUGyaf_MiUFAB0XvyYsO6knUj-GrVPcufsEOMmQes=s900-c-k-c0x00ffffff-no-rj" tvg-id="startv.com.tr" group-title="Turkey",Star TV
